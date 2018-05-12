@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43125'
     url: http://www.gutenberg.org/2009/agents/43125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45153#Historic-Sites-of-Lancashire-and-CheshireLegendary-Genealogical-and-Descriptive.
 gutenberg_issued: '2014-03-17'
 gutenberg_type: Text
 identifiers:
